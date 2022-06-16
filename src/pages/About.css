@@ -37,6 +37,7 @@
 }
 
 .profile_image {
+  border-radius: 15%;
   width: 500px;
   height: auto;
 }
